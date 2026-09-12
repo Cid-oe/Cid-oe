@@ -25,7 +25,7 @@
 
 ## 🔭 About Me
 
-I am a software engineer focused on building predictable, high-performance systems where autonomous AI meets deterministic software engineering. Rather than treating LLMs as stochastic black boxes, my work centers on **bounded execution gates**, **agent regression testing**, and **token-optimized developer tooling** across **Python, Go, Rust, and TypeScript**.
+I am a student focused on building predictable, high-performance systems where autonomous AI meets deterministic software engineering. Rather than treating LLMs as stochastic black boxes, my work centers on **bounded execution gates**, **agent regression testing**, and **token-optimized developer tooling** across **Python, Go, Rust, and TypeScript**.
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (2nd Year)
 - 🔬 **Open-Source Contributor:** Upstream contributions merged in **CERN Open Data Portal**, **Omarchy Linux**, **HFlow**, and **CellFence**.
