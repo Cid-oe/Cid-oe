@@ -54,6 +54,10 @@ I am a student focused on building predictable, high-performance systems where a
 
 ---
 
+## 🌐 Decentralized & Distributed Systems
+- **[RustChain](https://github.com/Scottcjn/Rustchain)**: Proof-of-Antiquity blockchain ecosystem contributor & bare-metal node operator. Author of temporal entropy consistency validation, dry-run network probe isolation, and anti-emulation hardware verification suites.
+
+
 ## 🛠️ Tech Stack & Ecosystem
 
 ```
